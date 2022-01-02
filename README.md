@@ -4,3 +4,6 @@ All solutions of daily leetcoding challenge.
 ### Day 1
 #### Burst Balloons
 ##### Link to the problem:-https://leetcode.com/problems/burst-balloons/
+### Day 2
+#### Pairs of Songs With Total Duration Divisible by 60
+##### Link to the problem:-
