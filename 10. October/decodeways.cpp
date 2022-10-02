@@ -29,5 +29,4 @@ public:
         return dp[0];
     }
 };
-Footer
-© 2022 GitHub, Inc.
+
